@@ -1,0 +1,3 @@
+ Écrire un programme qui demande à l’utilisateur de saisir un nombre entier. 
+Le programme l’informe si la valeur saisie est positive ou négative (​on laisse 
+de côté le cas 0​)
