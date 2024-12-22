@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=..\..\..\..\..\..\..\Dev-Cpp\exo1.c
+FileName=exo1.c
 CompileCpp=0
 Folder=
 Compile=1
